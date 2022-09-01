@@ -1,0 +1,9 @@
+{
+    "compilerOptions":{
+        "lib": ["ES2015.Promise","ES2021.String"],
+        "target": "es6",
+        "strict":true,
+        "module": "commonjs",
+        "sourceMap":true
+    }
+}
